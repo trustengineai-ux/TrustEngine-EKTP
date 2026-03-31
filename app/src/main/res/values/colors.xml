@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TrustEngine Brand Colors -->
+    <color name="trustengine_primary">#0A2540</color>
+    <color name="trustengine_primary_dark">#061827</color>
+    <color name="trustengine_accent">#00D4AA</color>
+    <color name="trustengine_accent_light">#4DEAC4</color>
+    <color name="trustengine_secondary">#635BFF</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#F6F9FC</color>
+    <color name="background_dark">#0A2540</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1A3A5C</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#0A2540</color>
+    <color name="text_secondary">#6B7B8F</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_on_dark">#FFFFFF</color>
+    
+    <!-- Status Colors -->
+    <color name="success_green">#00D4AA</color>
+    <color name="error_red">#FF5252</color>
+    <color name="warning_yellow">#FFB800</color>
+    <color name="info_blue">#635BFF</color>
+    
+    <!-- Border Colors -->
+    <color name="border_light">#E3E8EE</color>
+    <color name="border_dark">#2A4A6C</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#0A2540</color>
+    <color name="gradient_end">#1A3A5C</color>
+</resources>

@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">TrustEngine e-Certificate</string>
+    
+    <!-- Common -->
+    <string name="continue_text">Continue</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">TrustEngine e-Certificate Verifier</string>
+    <string name="home_subtitle">Verify your identity securely with NFC e-KTP</string>
+    <string name="start_verification">Start Verification</string>
+    <string name="view_history">View History</string>
+    
+    <!-- NFC Screen -->
+    <string name="nfc_title">Tap Your e-KTP</string>
+    <string name="nfc_instruction">Hold your e-KTP card near the back of your phone</string>
+    <string name="nfc_reading">Reading e-KTP data…</string>
+    <string name="nfc_success">e-KTP read successfully!</string>
+    <string name="nfc_error">Failed to read e-KTP. Please try again.</string>
+    <string name="nfc_not_supported">NFC is not supported on this device</string>
+    <string name="nfc_disabled">Please enable NFC in settings</string>
+    
+    <!-- Camera Screen -->
+    <string name="camera_title">Capture Photos</string>
+    <string name="camera_ktp_instruction">Position your KTP card within the frame</string>
+    <string name="camera_selfie_instruction">Position your face within the oval</string>
+    <string name="capture_ktp">Capture KTP</string>
+    <string name="capture_selfie">Capture Selfie</string>
+    <string name="retake">Retake</string>
+    <string name="confirm">Confirm</string>
+    <string name="camera_permission_required">Camera permission is required</string>
+    
+    <!-- Verification Screen -->
+    <string name="verification_title">Verifying Identity</string>
+    <string name="verification_progress">Verifying with Verihubs…</string>
+    <string name="verification_success">Identity Verified!</string>
+    <string name="verification_failed">Verification Failed</string>
+    <string name="generating_certificate">Generating Certificate…</string>
+    
+    <!-- Certificate Screen -->
+    <string name="certificate_title">e-Certificate</string>
+    <string name="download_pdf">Download PDF</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="new_verification">New Verification</string>
+    <string name="certificate_generated">Certificate generated successfully</string>
+    
+    <!-- Certificate PDF Content -->
+    <string name="cert_title">TRUSTENGINE e-CERTIFICATE</string>
+    <string name="cert_subtitle">Identity Verification Certificate</string>
+    <string name="cert_verified_by">Verified by TrustEngine</string>
+    <string name="cert_date">Date</string>
+    <string name="cert_nik">NIK</string>
+    <string name="cert_name">Full Name</string>
+    <string name="cert_dob">Date of Birth</string>
+    <string name="cert_pob">Place of Birth</string>
+    <string name="cert_gender">Gender</string>
+    <string name="cert_address">Address</string>
+    <string name="cert_status">Verification Status</string>
+    <string name="cert_status_verified">VERIFIED</string>
+    <string name="cert_id">Certificate ID</string>
+    
+</resources>
